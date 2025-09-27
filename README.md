@@ -48,7 +48,7 @@ Kết quả test
 - Chưa login → redirect về trang login (không hiển thị thông báo 401, mà chuyển thẳng về form login)  
 ![Profile No Session](public/results/profile_no_session.png)
 
-- Đã login → hiển thị "Welcome user1!"  
+- Đã login → hiển thị "Welcome admin"  
 ![Profile With Session](public/results/profile_with_session.png)
 
 ---
